@@ -1,0 +1,14 @@
+{
+  "name": "coursehunter-dl",
+  "version": "1.0.0",
+  "description": "Download videos from coursehunters site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slav Ivanov",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.1.0"
+  }
+}
